@@ -61,7 +61,8 @@
     npm install firebase react-router-dom react-icons
 ```
 
-## Challenges Faced:
+# Challenges Faced:
+
 
 # Firebase Implementation:
 - New to Firebase, I faced challenges in its implementation.
